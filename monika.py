@@ -120,7 +120,7 @@ pygame.quit() # ;We do not need pygame any longer as it fufilled it's purpose
 
 code = ""
 ascii_code_sep_exp = len(code)+8
-for bit in monika: # ; partition the data have on byte size be 8 characters each
+for bit in monika: # ; partition the data to have on byte size be 8 characters each
     code += str(bit)
     if len(code) == ascii_code_sep_exp:
         code += ","
