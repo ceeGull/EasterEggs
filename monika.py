@@ -1,4 +1,4 @@
-# ;The whole purpose of this program is to get any leads to what lore I can gather other than playing the game (the game I am referring to is Doki-Doki Literature Club) also I have a syntax I follow when it comes to comments
+# ;The whole purpose of this program is to get any leads to what lore I can gather other than playing the game (the game I am referring to is Doki-Doki Literature Club)
 # ;Imports
 from GF import *
 import pygame # ;It's been a very long time since I played with pygame
